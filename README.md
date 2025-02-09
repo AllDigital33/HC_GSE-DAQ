@@ -72,3 +72,8 @@ iPad Touch-based Remote
 DISCLAIMER
 
 The open-source code and hardware designs ("Materials") provided here are related to the development and launching of bipropellant liquid rockets. The authors and contributors of these Materials provide them for educational and informational purposes only. The authors and contributors disclaim all responsibility for any injuries, damages, or losses of any nature whatsoever, whether direct, indirect, punitive, incidental, special, consequential, or any other damages, to persons or property, arising out of or connected with the use, misuse, or inability to use the Materials provided here.
+
+
+Mike & Preston
+Sinnoh Sphinx+ SN05
+@RocketTalk33 in the Discord
